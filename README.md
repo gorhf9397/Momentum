@@ -1,3 +1,6 @@
+# 배포URL
+https://gorhf9397.github.io/Momentum
+
 # Challenge_goals
 Javascript를 사용하여 Chrome Extention Momentum 클론코딩
 
